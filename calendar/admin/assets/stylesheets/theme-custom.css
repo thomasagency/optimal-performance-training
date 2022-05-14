@@ -1,0 +1,37 @@
+.topbar {
+	width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+.list {
+	clear: both;
+}
+.topbar .search {
+	width: 180px;
+}
+.padding-cell {
+	padding-top: 7px;
+}
+.control-label {
+	padding-left: 0;
+}
+#form {
+	padding: 20px 0;
+}
+#form .form-group .btn {
+	margin-right: 10px;
+}
+#form .control-label {
+	text-align: left;
+}
+.block-title {
+	font-size: 15px;
+	font-weight: 600;
+	color: #33353f;
+	display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.table .timetable-icon i {
+	font-size: 18px;
+}
